@@ -11,15 +11,15 @@ $ git clone git@github.com:VrajHR/WebDesign-repo1.git
 To install and set up the library, run:
 $ npm install -S myLib
 
-Usage
+- Usage
 Serving the app
 
 $ npm start
 
-Running the tests
+- Running the tests
 
 $ npm test
 
-Building a distribution version
+- Building a distribution version
 
 $ npm run build
